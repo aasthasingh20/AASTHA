@@ -31,8 +31,7 @@ HIII I'M AASTHA✨
 🌐 https://www.linkedin.com/in/aasthasingh2314
 
 
-# 💫 About Me:
-HIII EVERYONE MYSELF AASTHA 🔹 About Me 🎓 Final-year Computer Science student at Dr. A.P.J. Abdul Kalam Technical University<br><br>💻 Passionate about Web Development, Cybersecurity, and AI<br><br>⚙️ Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript, HTML/CSS<br><br>🛡️ Strong foundation in Cybersecurity concepts and Data Structures & Algorithms<br><br>🤖 Built projects using MediaPipe, WebRTC, Three.js, and AI-based posture evaluation tools<br><br>📊 Developed a Resume Parser tool with NLP, showcasing practical use of AI in recruitment<br><br>🧠 Working on VANET secure routing simulation using NS-2/NS-3 with cryptographic techniques<br><br>🔧 Experienced in building full-stack apps, collaborative platforms, and real-time systems<br><br>🌐 Learning Figma to HTML conversion, UI/UX design, and frontend performance optimization<br><br>🚀 Actively seeking opportunities in Full Stack Development, Frontend Engineering, or AI Research<br><br>🤝 Strong team player, self-learner, and passionate about solving real-world problems with tech<br><br>📧 aasthabhriguvanshi@gmail.com<br><br>🌐 https://www.linkedin.com/in/aasthasingh2314<br><br>
+
 
 
 ## 🌐 Socials:
